@@ -1,3 +1,4 @@
+#change
 for filename in $*
 do
 	echo $filename 
